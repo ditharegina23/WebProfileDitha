@@ -1,0 +1,63 @@
+body {
+  background: linear-gradient(
+    rgb(65, 142, 137) 10%,
+    #73a0a5 40%,
+    rgb(125, 165, 234) 120%
+  );
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+  padding-top: 70px;
+  font-family: "Verdana", sans-serif;
+}
+.photo {
+  width: 200px;
+}
+.profile h2 {
+  color: #2d2e2e;
+  transform: translateY(7px);
+}
+.profile h5 {
+  color: #2d2e2e;
+}
+.about {
+  color: #2d2e2e;
+  background-color: #f3f4f5;
+  justify-content: center;
+  align-items: center;
+  margin-top: -70px;
+  padding-top: 70px;
+  font-family: "Verdana", sans-serif;
+}
+.resume {
+  padding-bottom: 100px;
+  margin-top: -70px;
+  padding-top: 90px;
+  font-family: "Verdana", sans-serif;
+}
+.btn {
+  margin-top: 15px;
+}
+.home {
+  padding-top: 100px;
+}
+.arrow {
+  border: solid #2d2e2e;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+}
+.galeri {
+  font-family: "Verdana", sans-serif;
+}
+.CONTACT {
+  font-size: 25px;
+  padding-bottom: px;
+  margin-top: 20px;
+  font-family: "Verdana", sans-serif;
+}
